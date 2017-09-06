@@ -13,6 +13,7 @@ namespace GitTest
             //test
             //test2
             //TEST3
+
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
