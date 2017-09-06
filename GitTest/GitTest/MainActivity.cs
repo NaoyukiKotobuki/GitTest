@@ -12,7 +12,8 @@ namespace GitTest
             base.OnCreate(bundle);
             //test
             //test2
-            //test3
+            //TEST3
+
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
